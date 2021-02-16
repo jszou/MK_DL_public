@@ -49,14 +49,14 @@ __a. Training setup__
 --num_workers=[*]
 ```
 Notes: ```batch_size```,```pin_memory```,```num_workers``` will depend on your individual configuration. 
-We used common values for ```lr```. ```loss_weight``` helps with class balance.
+We used common values for ```lr```. ```loss_weight``` helps with class balance during backprop.
 
 __b. Data manipulation__
 ```
 --use_masks_bool=['False']
 --blocksize=[4 or 12]
 ```
-Use of masks (```use_masks_bool```) is disabled by default, as we wished to learn about off-target signatures.
+Use of masks (```use_masks_bool```) is disabled by default, as we wished to incorporate off-target signatures in the task and limit pre-processing steps.
 
 __c. 2D specific arguments__
 ```
@@ -64,7 +64,7 @@ __c. 2D specific arguments__
 --start_slice=[35]
 --end_slice=[40]
 ```
-Features to specify when using the 2D model
+Features to specify when using the 2D model. Slices are in the coronal orientation.
 
 __d. Misc arguments__
 ```
