@@ -14,7 +14,7 @@ Other commonly used python packages (tqdm, time, etc.)
 Code for the deep learning project 'Deep learning improves utility of tau PET in the study of Alzheimer's Disease' (submitted to journal). All work on this project covered by CUIMC IRB#AAAS3440.
 
 ## Data Preprocessing:
-Raw PET images were motion corrected, averaged across time windows (80-100 minutes post injectioin) and coregistered to a custom template (https://arxiv.org/abs/2010.07897).
+Raw PET images were motion corrected, averaged across time windows (80-100 minutes post injection) and coregistered to a custom template (https://arxiv.org/abs/2010.07897).
 
 ## Basic Usage: 
 
@@ -49,7 +49,7 @@ __a. Training setup__
 --num_workers=[*]
 ```
 Notes: ```batch_size```,```pin_memory```,```num_workers``` will depend on your individual configuration. 
-We used common values for ```lr```. ```loss_weight``` helps with class balance during backprop.
+We used a common value for ```lr```. ```loss_weight``` helps with class balance during model training (backprop).
 
 __b. Data manipulation__
 ```
