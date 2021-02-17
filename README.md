@@ -82,8 +82,8 @@ __d. Misc arguments__
 ```
 a. Washington Heights Inwood Community Aging Project (WHICAP). PI: Richard Mayeux M.D.
 b. Studies investigating neuroinflammation and tau in aging/dementia. PI: William C. Kreisl, M.D.
-c. Valacyclovir for treatment of Alzheimer's Disease (VALAD). PI: Devangere P. Devanand, M.D.
-d. Northern Manhattan Memory cohort (NOMEM). PI: Jose A. Luchsinger, M.D.
+c. Valacyclovir for treatment of Alzheimer's Disease (VALAD). PI: Davangere P. Devanand, M.D.
+d. Northern Manhattan Memory cohort (NOMEM). PI: José A. Luchsinger, M.D.
 ```
 Supported by NIH grants:
 > R01AG050440, R01 AG055422, RF1AG051556, RF1AG051556-01S2, R01AG055299, K99AG065506 and K24AG045334.
