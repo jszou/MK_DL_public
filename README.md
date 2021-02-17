@@ -91,9 +91,10 @@ Supported by NIH grants:
 Partial support for data collection was provided by NIH grant:
 > UL1TR001873. 
 
-Data collection and sharing for this project was additionally supported by the Washington Heights-Inwood Columbia Aging Project 
-> (WHICAP, P01AG07232, R01AG037212, RF1AG054023).
+Data collection and sharing for this project was additionally supported by the Washington Heights-Inwood Columbia Aging Project (WHICAP) 
+> P01AG07232, R01AG037212, RF1AG054023.
 
-[18F]-AV-1451 images were downloaded from the Alzheimer's Disease Neuroimaging Initiative (ADNI): See adni.loni.usc.edu for more info.
+[18F]-AV-1451 images were downloaded from the Alzheimer's Disease Neuroimaging Initiative (ADNI): 
+> See adni.loni.usc.edu for more info.
 
 
